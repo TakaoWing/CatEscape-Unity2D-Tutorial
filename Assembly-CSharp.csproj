@@ -48,6 +48,7 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\ArrowController.cs" />
      <Compile Include="Assets\Scripts\ArrowGenerator.cs" />
+     <Compile Include="Assets\Scripts\GameDirector.cs" />
      <Compile Include="Assets\Scripts\PlayerController.cs" />
  <Reference Include="Facebook.Unity.Settings">
  <HintPath>/Users/Shared/Unity/CatEscape/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
